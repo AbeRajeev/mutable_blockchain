@@ -4,9 +4,9 @@ Author: Abhijith Rajeev (Abe). Project date: June 2018. Libraries and Code refer
 
 install the necessary packages:
 
-go get github.com/davecgh/go-spew/spew
-go get github.com/gorilla/mux
-go get github.com/joho/godotenv
+go get github.com/davecgh/go-spew/spew  <br/>
+go get github.com/gorilla/mux <br/>
+go get github.com/joho/godotenv <br/>
 
 create a .env file, with the content:
 "PORT=8080"
